@@ -13,8 +13,8 @@ public class TestBrowser {
 //
 		driver.get("http://www.javatpoint.com/");
 		driver.quit();
-//		SafariDriver driver1 =new SafariDriver();
-//		driver1.get("http://www.javatpoint.com/");
+		SafariDriver driver1 =new SafariDriver();
+		driver1.get("http://www.javatpoint.com/");
 
 	}
 
