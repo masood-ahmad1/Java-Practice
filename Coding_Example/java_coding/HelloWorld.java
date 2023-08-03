@@ -1,4 +1,4 @@
-package test;
+package java_coding;
 
 public class HelloWorld {
 
