@@ -27,7 +27,7 @@ public class stringReverse {
 		}
 		System.out.println();
 		
-		System.out.println(recursiveMethod("ma"));
+		System.out.println(recursiveMethod("masood"));
 	}
 
 }
